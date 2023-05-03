@@ -9,7 +9,7 @@ I am just sitting here
 - 📫 How to reach me: [My email on MCommunity](https://mcommunity.umich.edu/person/jadb)
 - ⚡ Fun fact: Polar bears are the only bear species that's a marine mammal 🐻‍❄️  
 
-(This was originally a school account, so most of my repositories have to be kept private for academic integrity)  
+(This was originally a school account, so most of my repositories have to be kept private/archived for academic integrity 🤠)  
 
-![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21&layout=compact)
 
