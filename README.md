@@ -11,5 +11,5 @@ I am just sitting here
 
 (This was originally a school account, so most of my repositories have to be kept private for academic integrity)  
 
-![Top Langs](https://github-readme-stats-kappa-five-99.vercel.app/api/top-langs/?username=jadb18&layout=compact)
+![Top Langs](https://github-readme-stats-git-master-jadb18.vercel.app/api/top-langs/?username=jadb18&layout=compact)
 
