@@ -13,3 +13,8 @@ I am just sitting here
 
 ![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21&layout=compact)
 
+### Connect with me! (I'm usually dormant):
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jad-beydoun/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jadb_18/)
+[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/Kf9Lq0jRV0)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.eecs.umich.edu/jadb)
