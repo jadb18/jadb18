@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-I am just s  
-🦆  
-I am just sitting here
+I am former research assistant from the University of Michigan [LIT Group 🔥](https://lit.eecs.umich.edu)
 
-- 🌱 I’m currently learning Mac Catalyst (WTL Objective-C and Rust)
-- 💬 Ask me about music streaming audio codecs
+While I don't actively maintain this account besides a few personal projects, most of my repositories have to be kept private/archived for academic integrity 🤠
+
 - 📫 How to reach me: [My email on MCommunity](https://mcommunity.umich.edu/person/jadb)
 - ⚡ Fun fact: Polar bears are the only bear species that's a marine mammal 🐻‍❄️  
-
-(This was originally a school account, so most of my repositories have to be kept private/archived for academic integrity 🤠)  
 
 ![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21&layout=compact)
 
