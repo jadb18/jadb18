@@ -7,7 +7,7 @@ While I don't actively maintain this account besides a few personal projects, mo
 - 📫 How to reach me: [My email on MCommunity](https://mcommunity.umich.edu/person/jadb)
 - ⚡ Fun fact: Polar bears are the only bear species that's a marine mammal 🐻‍❄️  
 
-![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21&layout=compact)
+![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21,landmarks&layout=compact)
 
 ### Connect with me! (I'm usually dormant):
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jad-beydoun/)
