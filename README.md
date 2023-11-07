@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am former research assistant from the University of Michigan [LIT Group 🔥](https://lit.eecs.umich.edu)
+I am a former research assistant from the University of Michigan [LIT Group 🔥](https://lit.eecs.umich.edu)
 
 While I don't actively maintain this account besides a few personal projects, most of my repositories have to be kept private/archived for academic integrity 🤠
 
