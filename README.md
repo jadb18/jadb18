@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a former research assistant from the University of Michigan [LIT Group 🔥](https://lit.eecs.umich.edu)
+I am a graduate student in applied data science at the University of Michigan and a former research assistant for the [LIT Group 🔥](https://lit.eecs.umich.edu).
 
 While I don't actively maintain this account besides a few personal projects, most of my repositories have to be kept private/archived for academic integrity 🤠
 
 - 📫 How to reach me: [My email on MCommunity](https://mcommunity.umich.edu/person/jadb)
-- ⚡ Fun fact: Polar bears are the only bear species that's a marine mammal 🐻‍❄️  
+- ⚡ Fun fact: Polar bears are the only bear species that's a marine mammal 🐻‍❄️
 
 ![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21,Landmarks&layout=compact)
 
