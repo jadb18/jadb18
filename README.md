@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a graduate student in applied data science at the University of Michigan and a former research assistant for the [LIT Group 🔥](https://lit.eecs.umich.edu).
+I am a graduate student at the University of Michigan and a former research assistant for the [LIT Group 🔥](https://lit.eecs.umich.edu).
 
 While I don't actively maintain this account besides a few personal projects, most of my repositories have to be kept private/archived for academic integrity 🤠
 
