@@ -10,6 +10,6 @@ While I don't actively maintain this account besides a few personal projects, mo
 - 📫 How to reach me: [My email on MCommunity](https://mcommunity.umich.edu/person/jadb) (Non-university affiliated contact methods also available)
 - ⚡ Fun fact: Polar bears are the only bear species that's a marine mammal 🐻‍❄️
 
-![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21,Landmarks&layout=compact)
+![Top Langs](https://github-readme-stats-jadb18.vercel.app/api/top-langs/?username=jadb18&exclude_repo=441f21,Landmarks,MADS-Michigan-Rails-Visualization&layout=compact)
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.eecs.umich.edu/jadb)
