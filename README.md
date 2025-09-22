@@ -1,8 +1,6 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 ### Hi there 👋
 
-Welcome to my page on [Microsoft's GitHub](https://www.whoprofits.org/companies/company/7371?microsoft)
-
 I am a graduate student at the University of Michigan and a former research assistant for the [LIT Group 🔥](https://lit.eecs.umich.edu).
 
 While I don't actively maintain this account besides a few personal projects, most of my repositories have to be kept private/archived for academic integrity 🤠
